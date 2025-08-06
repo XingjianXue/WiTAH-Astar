@@ -19,33 +19,16 @@ Below are the paths and tether configurations under different winding angle cons
 The blue dashed line is the tether configuration of the suboptimal solution,  
 while the red solid line is the optimal solution.
 
-<p align="center">
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="WiTAH Astar Simulation/0pi.gif" width="30%"/>
-    <br/>0π
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="WiTAH Astar Simulation/1pi.gif" width="30%"/>
-    <br/>1π
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="WiTAH Astar Simulation/1.5pi.gif" width="30%"/>
-    <br/>1.5π
-  </div>
-</p>
+## Results
+Below are the paths and tether configurations under different winding angle constraints.  
+The blue dashed line is the tether configuration of the suboptimal solution,  
+while the red solid line is the optimal solution.
 
-<p align="center">
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="WiTAH Astar Simulation/2pi.gif" width="30%"/>
-    <br/>2π
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="WiTAH Astar Simulation/3pi.gif" width="30%"/>
-    <br/>3π
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="WiTAH Astar Simulation/4pi.gif" width="30%"/>
-    <br/>4π
-  </div>
-</p>
+| 0π | 1π | 1.5π |
+|----|----|------|
+| <img src="WiTAH Astar Simulation/0pi.gif" width="250"/> | <img src="WiTAH Astar Simulation/1pi.gif" width="250"/> | <img src="WiTAH Astar Simulation/1.5pi.gif" width="250"/> |
+
+| 2π | 3π | 4π |
+|----|----|------|
+| <img src="WiTAH Astar Simulation/2pi.gif" width="250"/> | <img src="WiTAH Astar Simulation/3pi.gif" width="250"/> | <img src="WiTAH Astar Simulation/4pi.gif" width="250"/> |
 
