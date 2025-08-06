@@ -4,11 +4,6 @@ In this paper, we propose a variant of the anytime hybrid A* algorithm that gene
 ## Results
 Below are the paths and tether configurations under different winding angle constraints. The blue dashed line is the tether configuration of the suboptimal solution, while the red solid line is the optimal solution.
 
-## Results
-Below are the paths and tether configurations under different winding angle constraints.  
-The blue dashed line is the tether configuration of the suboptimal solution,  
-while the red solid line is the optimal solution.
-
 | 0π | 1π | 1.5π |
 |----|----|------|
 | <img src="WiTAH Astar Simulation/0pi.gif" width="250"/> | <img src="WiTAH Astar Simulation/1pi.gif" width="250"/> | <img src="WiTAH Astar Simulation/1.5pi.gif" width="250"/> |
