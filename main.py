@@ -21,7 +21,7 @@ tether_config = [start_pos[0][0:2],start_pos[1][0:2]]
 goal_pos = [[5,26,np.pi/2],[18,26,np.pi/2]]
 
 #change the winding constraint here
-winding_constraint = [2*np.pi, 100000000*np.pi]
+winding_constraint = [3*np.pi, 100000000*np.pi]
 omega = 10
 reduce_step = 10
 
