@@ -18,7 +18,7 @@ anytime fashion.
 Below are the paths and tether configurations under different winding angle constraints(ω = 10, γ = 10)
 The blue dashed line is the tether configuration of the suboptimal solution, while the red solid line is the optimal solution.
 <p align="center">
-  <img src="WiTAH Astar Simulation/0pi.png" width="30%" />
+  <img src="WiTAH Astar Simulation/0pi.png" width="40%" />
   <img src="WiTAH Astar Simulation/1pi.png" width="30%" />
   <img src="WiTAH Astar Simulation/1.5pi.png" width="30%" />
 </p>
